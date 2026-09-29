@@ -12,7 +12,7 @@ KeyFileName = "CangcutNexus_Key.json",
 ValidKeys = {"NEXUS2026", "VIPUSER", "DEVELOPER_ACCESS"},
 -- Pemetaan PlaceId game Roblox dengan file skrip cheat khusus di GitHub Anda
 SupportedGames = {
-[2753915549] = "https://raw.githubusercontent.com/Cangcutpincen/main.lua/main/bloxfruits.lua", -- Blox Fruits
+[2753915549] = "https://raw.githubusercontent.com/Cangcutpincen/main.lua/bloxfruits.lua", -- Blox Fruits
 [142823291]  = "https://raw.githubusercontent.com/Cangcutpincen/main.lua/main/mm2.lua",         -- Murder Mystery 2
 [6516141723] = "https://raw.githubusercontent.com/Cangcutpincen/main.lua/main/bedwars.lua",      -- BedWars
 },
